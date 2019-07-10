@@ -30,6 +30,7 @@ clase  FacebookProfile {
     profileAge = 0 // Maybe this is a design flaw that we may want to fix later on
     ProfileBio = "This is a Profile"
     profileFriendList = [String]()
+        //we will need to code a special function for our friendlist
     profileBirthday =
     profileRelationshipStatus = relationshipStatusthree //another design flaw that will always be dafault to it's complicated
     profileJob = ""
